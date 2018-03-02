@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Musical Structure</string>
+    <string name="buttonSongsText">Songs</string>
+    <string name="buttonAlbumsText">Albums</string>
+    <string name="buttonArtistText">Artists</string>
+    <string name="songNameText">Song Name</string>
+    <string name="songArtistText">Artist Name</string>
+    <string name="songAlbumText">Album Name</string>
+    <string name="artistToast">Artists is Shown</string>
+    <string name="songsToast">Songs is Shown</string>
+    <string name="albumsToast">Albums is Shown</string>
+    <string name="playing">  Now Playing</string>
+    <string name="stopped">  Stopped</string>
+    <string name="artistsLabel">Music Artists</string>
+    <string name="albumsLabel">Music Albums</string>
+    <string name="nowPlayingLabel">Now Playing</string>
+    <string name="music">My Music</string>
+    <string name="nowPlayingDescreption">Play or pause the song.</string>
+    <string name="songsDescreption">List of Songs</string>
+    <string name="albumsDescreption">List of Albums</string>
+    <string name="artistDescreption">List of Artists</string>
+
+</resources>
